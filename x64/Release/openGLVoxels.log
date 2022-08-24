@@ -1,0 +1,68 @@
+﻿  Entity.cpp
+  Input.cpp
+  Entry.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\Texture.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\Texture.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\Texture.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cleanProjects\openGLVoxels\openGLVoxels\Entry.cpp(23,9): warning C4003: not enough arguments for function-like macro invocation 'LOG_TIME_SCOPE'
+F:\cleanProjects\openGLVoxels\openGLVoxels\Entry.cpp(69,9): warning C4003: not enough arguments for function-like macro invocation 'LOG_TIME_SCOPE'
+  Log.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  Application.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  Renderer.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  Shader.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  Texture.cpp
+  IndexBuffer.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  VertexArray.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\VertexArray.cpp(20,64): warning C4267: 'initializing': conversion from 'size_t' to 'GLuint', possible loss of data
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\VertexArray.cpp(28,1): warning C4312: 'type cast': conversion from 'const GLuint' to 'const void *' of greater size
+  VertexBuffer.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  VertexBufferLayout.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  Window.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  ScopeTimer.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  Tools.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+  glm.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 729 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : warning LNK4286: symbol '__glewUniform3fv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform4f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform4fv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewDeleteShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform3f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform4iv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform1f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform3iv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform1i' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform2fv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniform2iv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'IndexBuffer.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'IndexBuffer.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'IndexBuffer.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'VertexArray.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'VertexArray.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'glew32s.lib(glew.obj)' is imported by 'VertexArray.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'VertexArray.obj'
+  openGLVoxels.vcxproj -> F:\cleanProjects\openGLVoxels\x64\Release\openGLVoxels.exe

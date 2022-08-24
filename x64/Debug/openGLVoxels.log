@@ -1,0 +1,8 @@
+﻿  Entry.cpp
+F:\cleanProjects\openGLVoxels\openGLVoxels\Logging\Log.h(76,2): warning C4091: 'static ': ignored on left of 'Log' when no variable is declared
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\Texture.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\Texture.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cleanProjects\openGLVoxels\openGLVoxels\Renderer\Texture.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cleanProjects\openGLVoxels\openGLVoxels\Entry.cpp(23,9): warning C4003: not enough arguments for function-like macro invocation 'LOG_TIME_SCOPE'
+F:\cleanProjects\openGLVoxels\openGLVoxels\Entry.cpp(69,9): warning C4003: not enough arguments for function-like macro invocation 'LOG_TIME_SCOPE'
+  openGLVoxels.vcxproj -> F:\cleanProjects\openGLVoxels\x64\Debug\openGLVoxels.exe
